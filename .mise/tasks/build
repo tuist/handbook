@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# mise description="Build the project"
+
+pnpm run build -C $MISE_PROJECT_ROOT  

@@ -4,11 +4,13 @@
   "description": "A handbook for Tuist",
   "private": true,
   "devDependencies": {
-    "vitepress": "^1.2.2"
+    "vitepress": "^1.2.2",
+    "wrangler": "^3.28.2"
   },
   "scripts": {
     "dev": "vitepress dev",
     "build": "vitepress build",
-    "preview": "vitepress preview"
+    "preview": "vitepress preview",
+    "deploy": "vitepress build && wrangler pages deploy .vitepress/dist --project-name tuist-handbook --branch main"
   }
 }
