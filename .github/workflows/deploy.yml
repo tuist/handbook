@@ -10,13 +10,6 @@ concurrency:
   
 jobs:
   handbook:
-    name: Handbook
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@a5ac7e51b41094c92402da3b24376905380afc29 # v4
-      - uses: superfly/flyctl-actions/setup-flyctl@master
-      - run: flyctl deploy --local-only --build-arg MIX_ENV=prod
-  proxy-deploy:
     name: Proxy
     runs-on: ubuntu-latest
     env:
