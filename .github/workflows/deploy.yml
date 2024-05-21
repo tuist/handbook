@@ -10,7 +10,7 @@ concurrency:
   
 jobs:
   handbook:
-    name: Proxy
+    name: Handbook
     runs-on: ubuntu-latest
     env:
       CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
