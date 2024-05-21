@@ -1,0 +1,14 @@
+{
+  "name": "@tuist/handbook",
+  "version": "0.1.0",
+  "description": "A handbook for Tuist",
+  "private": true,
+  "devDependencies": {
+    "vitepress": "^1.2.2"
+  },
+  "scripts": {
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "preview": "vitepress preview"
+  }
+}
