@@ -46,6 +46,12 @@ export default defineConfig({
         items: [
           {text: "Technologies", link: 'handbook/engineering/technologies'},
         ]
+      },
+      {
+        text: "Hiring",
+        items: [
+          {text: "Cracked Crafters", link: 'handbook/hiring/cracked-crafters'},
+        ]
       }
     ],
 
