@@ -48,6 +48,7 @@ export default defineConfig({
         text: "Engineering",
         items: [
           {text: "Technologies", link: 'handbook/engineering/technologies'},
+          {text: "Open Source", link: 'handbook/engineering/open-source'}
         ]
       },
       {
