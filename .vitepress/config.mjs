@@ -5,6 +5,7 @@ export default defineConfig({
   title: "Tuist Handbook",
   titleTemplate: ":title | Tuist Handbook",
   description: "Tuist company handbook",
+  srcDir: './handbook',
   sitemap: {
     hostname: "https://handbook.tuist.io",
   },
@@ -42,19 +43,20 @@ export default defineConfig({
         text: 'Company',
         items: [
           { text: 'Handbook', link: '/' },
+          { text: 'Vision', link: 'company/vision' }
         ],
       },
       {
         text: "Engineering",
         items: [
-          {text: "Technologies", link: 'handbook/engineering/technologies'},
-          {text: "Open Source", link: 'handbook/engineering/open-source'}
+          {text: "Technologies", link: 'engineering/technologies'},
+          {text: "Open Source", link: 'engineering/open-source'}
         ]
       },
       {
         text: "Hiring",
         items: [
-          {text: "Cracked Crafters", link: 'handbook/hiring/cracked-crafters'},
+          {text: "Cracked Crafters", link: 'hiring/cracked-crafters'},
         ]
       }
     ],
