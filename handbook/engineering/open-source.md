@@ -14,7 +14,7 @@ With this vision, we are committed to making Tuist entirely open source, followi
 
 Open source software has the potential to drive innovation and collaboration, but it must be approached thoughtfully. Here are some guidelines to ensure that open sourcing software is both effective and meaningful:
 
-- Avoid open sourcing software that is not actively maintained merely for marketing purposes. Without proper maintenance, the software cannot serve its community effectively.
+- Avoid open sourcing software that is not actively maintained merely for marketing purposes. Without proper maintenance, the software cannot serve its community effectively. The only exception to this rule is software that represents examples or experiments.
 - Do not open source software that lacks standalone value or fails to attract interest for further development. Ensuring that the software has a clear, independent utility is crucial for community engagement and contribution.
 
 By following these best practices, we can foster a more robust and sustainable open source ecosystem.
