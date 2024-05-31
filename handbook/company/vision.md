@@ -9,7 +9,4 @@ Apple's developer tools, [while convenient](https://docs.tuist.io/guide/introduc
 
 We achieve this by providing an integrated ecosystem of tools and technologies that align and integrate with Apple's ecosystem, meeting developers where they are. 
 
-> [!NOTE] YOUR PLATFORM TEAM
-> Think of Tuist as your platform team or the co-pilot to your platform team.
-
 We tackle organizations' challenges without limits, ensuring our solutions seamlessly integrate into a cohesive and user-friendly Tuist ecosystem. Starting with simplifying Xcode project complexities through project generation, we laid a foundation — a language to describe projects — that we'll leverage to offer streamlined, low-configuration workflows.
