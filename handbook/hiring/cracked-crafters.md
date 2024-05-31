@@ -1,5 +1,6 @@
 ---
 title: Cracked Crafters
+description: At Tuist, we strive to hire people that are insanely good at what they do. We call them cracked crafters. A cracked crafter is someone who takes extreme ownership of ideas, is optimistic, has contagious excitement and energy, is authentic, applies themselves to the craft, and feels comfortable with uncertainty.
 ---
 
 # Cracked Crafters

@@ -1,5 +1,6 @@
 ---
 title: Technologies
+description: This document includes a list of technologies that are approved for use in Tuist projects along with the rationale behind each decision.
 ---
 
 # Technologies
