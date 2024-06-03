@@ -56,7 +56,7 @@ export default defineConfig({
       {
         text: "People",
         items: [
-          {text: "Crafters", link: 'people/crafters'},
+          {text: "Values", link: 'people/values'},
         ]
       }
     ],
