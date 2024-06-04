@@ -1,5 +1,6 @@
 ---
-title: Handbook
+title: Tuist Handbook
+titleTemplate: ':title'
 ---
 
 # Handbook
