@@ -8,6 +8,14 @@ description: This document includes a list of technologies that are approved for
 When deciding a technology to use in a new project, we try to be pragmatic ensuring we prevent technology fragmentation.
 This document includes a list of technologies that are approved for use in Tuist projects along with the rationale behind each decision. If you believe a technology should be added or removed from this list, please [open a pull request](https://github.com/tuist/handbook/compare).
 
+## How we choose technologies
+
+One of our core principles in technology selection is adhering to [standards](/engineering/standards) that strike a perfect balance between simplicity and power. Many **widely adopted technologies hide underlying complexities resulting from poor foundational design.** This hidden complexity eventually surfaces, making software maintenance and evolution more challenging.
+
+A prime example of achieving simplicity through robust design is found in [Erlang](https://en.wikipedia.org/wiki/Erlang_(programming_language)) and [Elixir](https://en.wikipedia.org/wiki/Elixir_(programming_language)). These technologies provide primitives that effectively model the real world, eliminating the need for endless layers of abstractions that are common in other ecosystems.
+
+We are also mindful of cutting-edge technologies. While they often bring innovation and spark valuable debates, their premature adoption can divert us from our primary mission: building a world-class productivity platform for app developers. By focusing on well-designed, standard-based technologies, we ensure our platform remains robust, maintainable, and aligned with our long-term goals.
+
 ## Programming languages
 
 ### Swift
