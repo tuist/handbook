@@ -43,6 +43,7 @@ export default defineConfig({
         text: 'Company',
         items: [
           { text: 'Handbook', link: '/' },
+          { text: 'Mission', link: 'company/mission' },
           { text: 'Vision', link: 'company/vision' }
         ],
       },
