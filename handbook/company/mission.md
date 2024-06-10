@@ -15,7 +15,7 @@ Everyone can build better Apple apps faster with the right:
 - Resources
 
 > [!NOTE] WHY ISN'T APPLE DOING THIS?
-> Apple has traditionally focus on supporting the "getting started" phase of app development. As apps grow in complexity, developers face challenges that Apple's tools do not address. Tuist is here to fill that gap.
+> Apple has traditionally focused on supporting the "getting started" phase of app development. As apps grow in complexity, developers face challenges that Apple's tools do not address. Tuist is here to fill that gap.
 
 ## Tools
 
