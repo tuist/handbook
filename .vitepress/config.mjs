@@ -48,6 +48,12 @@ export default defineConfig({
         ],
       },
       {
+        text: "Product",
+        items: [
+          {text: "App lifecycle", link: 'product/app-lifecycle'},
+        ]
+      },
+      {
         text: "Engineering",
         items: [
           {text: "Technologies", link: 'engineering/technologies'},
