@@ -44,7 +44,8 @@ export default defineConfig({
         items: [
           { text: 'Handbook', link: '/' },
           { text: 'Mission', link: 'company/mission' },
-          { text: 'Vision', link: 'company/vision' }
+          { text: 'Vision', link: 'company/vision' },
+          { text: 'Principles', link: 'company/principles' }
         ],
       },
       {
