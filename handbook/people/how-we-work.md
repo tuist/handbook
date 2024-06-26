@@ -18,7 +18,7 @@ We entrust you with the responsibility of crafting your ideal work environment a
 
 In this setup, it's important to over-communicate, doing so clearly and concisely, and to include context and expectations to minimize back-and-forth. Even though we use [Slack](https://slack.com) as a communication tool, don't expect it to be used synchronously. Avoid pings and don't expect people to respond immediately.
 
-It's also important to feel comfortable having multiple tasks in progress so that you can make progress on something else while waiting for feedback or a response.
+It's also important to feel comfortable having multiple tasks in progress, so that you can make progress on something else while waiting for feedback or a response.
 
 If a non-important conversation is turning into a long thread, move it out of Slack into [GitHub](https://github.com/tuist). **GitHub is the source of truth where important conversations and decisions should be captured** for future reference. We expect you to nudge people to move the conversation to GitHub if it's relevant.
 
