@@ -62,6 +62,12 @@ export default defineConfig({
           {text: "Values", link: 'people/values'},
           {text: "How we work", link: 'people/how-we-work'}
         ]
+      },
+      {
+        text: "Marketing",
+        items: [
+          {text: "Case studies", link: 'marketing/case-studies'},
+        ]
       }
     ],
 
