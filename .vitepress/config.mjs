@@ -1,4 +1,5 @@
 import { defineConfig } from 'vitepress'
+import {atom01Icon, codeBrowserIcon, heartIcon, target04Icon} from "./icons.mjs";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -40,7 +41,7 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Company',
+        text: `<div style="display: flex; flex-direction: row; align-items: center; gap: 7px;">Company ${atom01Icon()}</div>`,
         items: [
           { text: 'Handbook', link: '/' },
           { text: 'Mission', link: 'company/mission' },
@@ -49,7 +50,7 @@ export default defineConfig({
         ],
       },
       {
-        text: "Engineering",
+        text: `<div style="display: flex; flex-direction: row; align-items: center; gap: 7px;">Engineering ${codeBrowserIcon()}</div>`,
         items: [
           {text: "Technologies", link: 'engineering/technologies'},
           {text: "Open Source", link: 'engineering/open-source'},
@@ -57,14 +58,14 @@ export default defineConfig({
         ]
       },
       {
-        text: "People",
+        text: `<div style="display: flex; flex-direction: row; align-items: center; gap: 7px;">People ${heartIcon()}</div>`,
         items: [
           {text: "Values", link: 'people/values'},
           {text: "How we work", link: 'people/how-we-work'}
         ]
       },
       {
-        text: "Marketing",
+        text: `<div style="display: flex; flex-direction: row; align-items: center; gap: 7px;">Marketing ${target04Icon()}</div>`,
         items: [
           {text: "Case studies", link: 'marketing/case-studies'},
         ]
