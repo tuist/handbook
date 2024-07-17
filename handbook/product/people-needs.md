@@ -9,8 +9,8 @@ Tuist must solve real needs that people have.
 Sometimes,
 those ideas come from us [eating our own food](https://en.wikipedia.org/wiki/Eating_your_own_dog_food).
 Other times,
-they come from conversations with users.
-When we've identified that a need is real and that it's worth solving because it aligns with our vision and is very common among users, we should capture it here.
+they come from conversations with developers and organizations.
+When we've identified that a need is real and that it's worth solving because it aligns with our vision and is very common among teams, we should capture it here.
 
 The following sections capture the needs that we've identified so far organized by product area and priority.
 
