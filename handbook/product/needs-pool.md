@@ -1,9 +1,9 @@
 ---
-title: People needs
+title: Needs pool
 description: This document captures the needs of people using Tuist to get ideas on how to improve the product.
 ---
 
-# People needs
+# Needs pool
 
 Tuist must solve real needs that people have.
 Sometimes,

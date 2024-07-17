@@ -52,7 +52,7 @@ export default defineConfig({
       {
         text: `<div style="display: flex; flex-direction: row; align-items: center; gap: 7px;">Product ${codeBrowserIcon()}</div>`,
         items: [
-          {text: "People needs", link: 'product/people-needs'},
+          {text: "Needs pool", link: 'product/needs-pool'},
         ]
       },
       {
