@@ -22,10 +22,31 @@ The following sections capture the needs that we've identified so far organized 
 
 ## Projects
 
+### High priority
+
+<br/>
+
+#### Teams can't express a group of targets through the CLI interface
+
+Commands like `tuist generate` require passing a list of arguments representing targets the command targets. This is cumbersome, and leads to teams building their own scripts on top of Tuist. We should extend the targets API to pass unstructured metadata that they can use from commands, for example `tuist generate domain:foo`. In the future, we can introduce some structure for example team IDs, which an be used server-side to correlate projects data with teams. The same grouping mechanism can be used in commands like `tuist graph` to filter the output.
+
 ### Medium priority
 
 <br/>
 
-#### Teams can't codify dependency rules to be enforced
+##### Teams can't codify dependency rules to be enforced
 
 It's common that teams have a set of rules around what dependencies are allowed in their projects. For example, a feature module can't depend on another feature module implementation. Teams had to build their own tools that parse the output of `tuist graph` and run validations on top of it. It'd be great if Tuist could provide a way to codify those rules and enforce them, for example through a `tuist lint links` command.
+
+
+## Unlockers
+
+Unlockers is foundational investment that will enable solving other needs in the future.
+
+### Medium priority
+
+<br/>
+
+#### Swift-based automation DSL
+
+People are eager to have a Swift-based Fastlane. However, none of the attempts reached a level of adoption that would make them a standard. We believe it's because many of those attempts have disregarded the importance of extensibility in enabling a community of plugin developers. We should invest in a Swift-based automation DSL that is extensible and allows developers to build plugins that can be shared with the community.
