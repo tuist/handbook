@@ -39,6 +39,21 @@ It's common for organizations and developers to Elixir as a risk since its ecosy
 > [!NOTE] A NOTE ON LEARNING ELIXIR
 > Since it's not as popular as other languages, it might be harder to find Elixir developers. However, our aim is to have a team that is capable of learning new technologies and languages. We believe that the benefits of using Elixir outweigh the costs of learning it.
 
+## Standards
+
+### OpenAPI
+
+[OpenAPI](https://swagger.io/specification/) is a standard for defining APIs. We use it to define the APIs of our services. It allows us to generate documentation, client SDKs, and server stubs, which makes it easier to maintain and evolve our services.
+
+> [!NOTE] GRAPHQL
+> Although GraphQL has been gaining popularity, we have decided to stick with REST APIs for now. We believe that REST APIs are more straightforward and easier to understand for developers who are not familiar with GraphQL. Moreover, we don't have the need for giving clients the flexibility to request only the data they need, which is one of the main benefits of GraphQL. So we'd end up having to deal with [their challenges](https://www.magiroux.com/eight-years-of-graphql) early, distracting us from our primary mission.
+
+## Technologies
+
+### Scalar
+
+We generate documentation for [OpenAPI](#openapi) using [Scalar](https://github.com/scalar/scalar). It's open-source, and it allows us to generate beautiful documentation websites from OpenAPI specifications. If you are serving it from an [Elixir](#elixir) project, you can use our [scalar_plug](https://github.com/tuist/scalar_plug) library to serve the documentation from your Phoenix application.
+
 ## Project types
 
 ### Statically-generated documentation websites
