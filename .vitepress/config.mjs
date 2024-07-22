@@ -1,5 +1,5 @@
 import { defineConfig } from 'vitepress'
-import {atom01Icon, codeBrowserIcon, heartIcon, target04Icon, cubeOutlineIcon} from "./icons.mjs";
+import {atom01Icon, codeBrowserIcon, heartIcon, target04Icon, cubeOutlineIcon, lifeBuoy02Icon} from "./icons.mjs";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -61,6 +61,12 @@ export default defineConfig({
           {text: "Technologies", link: 'engineering/technologies'},
           {text: "Open Source", link: 'engineering/open-source'},
           {text: "Standards", link: 'engineering/standards'}
+        ]
+      },
+      {
+        text: `<div style="display: flex; flex-direction: row; align-items: center; gap: 7px;">Support ${lifeBuoy02Icon()}</div>`,
+        items: [
+          {text: "Process", link: 'support/process'},
         ]
       },
       {
