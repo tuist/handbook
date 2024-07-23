@@ -36,7 +36,7 @@ When providing support:
 
 **Tuist Enterprise organizations** can use the cross-Slack channel to get priority support. Tickets reported through this channel get the highest priority.
 
-**Tuist Pro organizations** can use the `support@tuist.io` email to get priority support and a cross-Slack channel.
+**Tuist Pro organizations** can use the `support@tuist.io` email to get priority support and a cross-slack channel.
 We process those emails through [Intercom](https://intercom.com),
 so if you are expected to provide support, you'll have access to the Intercom inbox.
 Assign new tickets to you to signal that you are working on them.
