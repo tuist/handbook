@@ -67,7 +67,8 @@ export default defineConfig({
         text: `<div style="display: flex; flex-direction: row; align-items: center; gap: 7px;">People ${heartIcon()}</div>`,
         items: [
           {text: "Values", link: 'people/values'},
-          {text: "How we work", link: 'people/how-we-work'}
+          {text: "How we work", link: 'people/how-we-work'},
+          {text: "Code of conduct", link: 'people/code-of-conduct'}
         ]
       },
       {
