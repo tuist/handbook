@@ -133,8 +133,3 @@ medidas correspondientes.
 ## Historial de versiones
 
 El historial de versiones de este documento se puede encontrar en el repository [handbook](https://github.com/tuist/handbook) de Tuist.
-
-
-
-
-
