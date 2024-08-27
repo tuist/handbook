@@ -10,6 +10,20 @@ export default defineConfig({
   sitemap: {
     hostname: "https://handbook.tuist.io",
   },
+  locales: {
+    root: {
+      label: 'English',
+      lang: 'en'
+    },
+    es: {
+      label: "Español",
+      lang: "es"
+    },
+    de: {
+      label: "Deutsch",
+      lang: "es"
+    }
+  },
   head: [
     [
       "script",
