@@ -1,5 +1,5 @@
 import { defineConfig } from 'vitepress'
-import {atom01Icon, codeBrowserIcon, heartIcon, target04Icon, cubeOutlineIcon, lifeBuoy02Icon} from "./icons.mjs";
+import {atom01Icon, codeBrowserIcon, heartIcon, target04Icon, cubeOutlineIcon, lifeBuoy02Icon, faceIdIcon} from "./icons.mjs";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -56,6 +56,7 @@ export default defineConfig({
     sidebar: [
       {
         text: `<div style="display: flex; flex-direction: row; align-items: center; gap: 7px;">Company ${atom01Icon()}</div>`,
+        collapsed: true,
         items: [
           { text: 'Handbook', link: '/' },
           { text: 'Mission', link: 'company/mission' },
@@ -65,12 +66,14 @@ export default defineConfig({
       },
       {
         text: `<div style="display: flex; flex-direction: row; align-items: center; gap: 7px;">Product ${cubeOutlineIcon()}</div>`,
+        collapsed: true,
         items: [
           {text: "Needs pool", link: 'product/needs-pool'},
         ]
       },
       {
         text: `<div style="display: flex; flex-direction: row; align-items: center; gap: 7px;">Engineering ${codeBrowserIcon()}</div>`,
+        collapsed: true,
         items: [
           {text: "Technologies", link: 'engineering/technologies'},
           {text: "Open Source", link: 'engineering/open-source'},
@@ -79,12 +82,14 @@ export default defineConfig({
       },
       {
         text: `<div style="display: flex; flex-direction: row; align-items: center; gap: 7px;">Support ${lifeBuoy02Icon()}</div>`,
+        collapsed: true,
         items: [
           {text: "Process", link: 'support/process'},
         ]
       },
       {
         text: `<div style="display: flex; flex-direction: row; align-items: center; gap: 7px;">People ${heartIcon()}</div>`,
+        collapsed: true,
         items: [
           {text: "Values", link: 'people/values'},
           {text: "How we work", link: 'people/how-we-work'},
@@ -93,8 +98,16 @@ export default defineConfig({
       },
       {
         text: `<div style="display: flex; flex-direction: row; align-items: center; gap: 7px;">Marketing ${target04Icon()}</div>`,
+        collapsed: true,
         items: [
           {text: "Case studies", link: 'marketing/case-studies'},
+        ]
+      },
+      {
+        text: `<div style="display: flex; flex-direction: row; align-items: center; gap: 7px;">Security ${faceIdIcon()}</div>`,
+        collapsed: true,
+        items: [
+          {text: "Information Security Policy (AUP)", link: 'security/information-security-policy'},
         ]
       }
     ],

@@ -1,5 +1,6 @@
 ---
 title: Values
+titleTemplate: :title | People | Tuist Handbook
 description: Learn about the values that we look for in our contributors and employees.
 ---
 
