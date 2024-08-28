@@ -1,5 +1,6 @@
 ---
 title: Case studies
+titleTemplate: :title | Marketing | Tuist Handbook
 description: This document provides guidelines for creating case studies that showcase the impact of Tuist on organizations' projects.
 ---
 

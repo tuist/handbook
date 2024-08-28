@@ -1,5 +1,6 @@
 ---
 title: Open Source
+titleTemplate: :title | Engineering | Tuist Handbook
 description: Open source is a powerful force that drives innovation and collaboration. At Tuist, we are committed to building a world-class open source productivity platform for app developers.
 ---
 

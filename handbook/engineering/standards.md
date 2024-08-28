@@ -1,6 +1,7 @@
 ---
 title: Standards
-description: 
+titleTemplate: :title | Engineering | Tuist Handbook
+description: Learn about Tuist's stance on adopting and embracing standards over proprietary abstractions and tools.
 ---
 
 # Standards

@@ -1,5 +1,6 @@
 ---
 title: Support process
+titleTemplate: :title | Support | Tuist Handbook
 description: Learn how we provide support to developers and organizations using Tuist.
 ---
 

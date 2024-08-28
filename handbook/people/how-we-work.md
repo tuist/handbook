@@ -1,5 +1,6 @@
 ---
 title: How we work
+titleTemplate: :title | People | Tuist Handbook
 description: Our approach to working together.
 ---
 
