@@ -1,28 +1,36 @@
-import { defineConfig } from 'vitepress'
-import {atom01Icon, codeBrowserIcon, heartIcon, target04Icon, cubeOutlineIcon, lifeBuoy02Icon, faceIdIcon} from "./icons.mjs";
+import { defineConfig } from "vitepress";
+import {
+  atom01Icon,
+  codeBrowserIcon,
+  heartIcon,
+  target04Icon,
+  cubeOutlineIcon,
+  lifeBuoy02Icon,
+  faceIdIcon,
+} from "./icons.mjs";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "Tuist Handbook",
   titleTemplate: ":title | Tuist Handbook",
   description: "Tuist company handbook",
-  srcDir: './handbook',
+  srcDir: "./handbook",
   sitemap: {
     hostname: "https://handbook.tuist.io",
   },
   locales: {
     root: {
-      label: 'English',
-      lang: 'en'
+      label: "English",
+      lang: "en",
     },
     es: {
       label: "Español",
-      lang: "es"
+      lang: "es",
     },
     de: {
       label: "Deutsch",
-      lang: "es"
-    }
+      lang: "es",
+    },
   },
   head: [
     [
@@ -43,79 +51,81 @@ export default defineConfig({
   ],
   themeConfig: {
     editLink: {
-      pattern: 'https://github.com/tuist/handbook/edit/main/:path'
+      pattern: "https://github.com/tuist/handbook/edit/main/:path",
     },
     logo: "/logo.png",
     search: {
       provider: "local",
     },
-    nav: [
-      { text: 'Home', link: '/' },
-    ],
+    nav: [{ text: "Home", link: "/" }],
 
     sidebar: [
       {
         text: `<div style="display: flex; flex-direction: row; align-items: center; gap: 7px;">Company ${atom01Icon()}</div>`,
         collapsed: true,
         items: [
-          { text: 'Handbook', link: '/' },
-          { text: 'Mission', link: 'company/mission' },
-          { text: 'Vision', link: 'company/vision' },
-          { text: 'Principles', link: 'company/principles' }
+          { text: "Handbook", link: "/" },
+          { text: "Mission", link: "company/mission" },
+          { text: "Vision", link: "company/vision" },
+          { text: "Principles", link: "company/principles" },
         ],
       },
       {
         text: `<div style="display: flex; flex-direction: row; align-items: center; gap: 7px;">Product ${cubeOutlineIcon()}</div>`,
         collapsed: true,
-        items: [
-          {text: "Needs pool", link: 'product/needs-pool'},
-        ]
+        items: [{ text: "Needs pool", link: "product/needs-pool" }],
       },
       {
         text: `<div style="display: flex; flex-direction: row; align-items: center; gap: 7px;">Engineering ${codeBrowserIcon()}</div>`,
         collapsed: true,
         items: [
-          {text: "Technologies", link: 'engineering/technologies'},
-          {text: "Open Source", link: 'engineering/open-source'},
-          {text: "Standards", link: 'engineering/standards'}
-        ]
+          { text: "Technologies", link: "engineering/technologies" },
+          { text: "Open Source", link: "engineering/open-source" },
+          { text: "Standards", link: "engineering/standards" },
+        ],
       },
       {
         text: `<div style="display: flex; flex-direction: row; align-items: center; gap: 7px;">Support ${lifeBuoy02Icon()}</div>`,
         collapsed: true,
-        items: [
-          {text: "Process", link: 'support/process'},
-        ]
+        items: [{ text: "Process", link: "support/process" }],
       },
       {
         text: `<div style="display: flex; flex-direction: row; align-items: center; gap: 7px;">People ${heartIcon()}</div>`,
         collapsed: true,
         items: [
-          {text: "Values", link: 'people/values'},
-          {text: "How we work", link: 'people/how-we-work'},
-          {text: "Code of conduct", link: 'people/code-of-conduct'}
-        ]
+          { text: "Values", link: "people/values" },
+          { text: "How we work", link: "people/how-we-work" },
+          { text: "Code of conduct", link: "people/code-of-conduct" },
+        ],
       },
       {
         text: `<div style="display: flex; flex-direction: row; align-items: center; gap: 7px;">Marketing ${target04Icon()}</div>`,
         collapsed: true,
-        items: [
-          {text: "Case studies", link: 'marketing/case-studies'},
-        ]
+        items: [{ text: "Case studies", link: "marketing/case-studies" }],
       },
       {
         text: `<div style="display: flex; flex-direction: row; align-items: center; gap: 7px;">Security ${faceIdIcon()}</div>`,
         collapsed: true,
         items: [
-          {text: "Information Security Policy (AUP)", link: 'security/information-security-policy'},
-        ]
-      }
+          {
+            text: "Information Security Policy (AUP)",
+            link: "security/information-security-policy",
+          },
+          {
+            text: "Information Security Roles and Responsibilities",
+            link: "security/information-security-roles-and-responsibilities",
+          },
+        ],
+      },
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/tuist' },
-      { icon: 'slack', link: 'https://join.slack.com/t/tuistapp/shared_invite/zt-1y667mjbk-s2LTRX1YByb9EIITjdLcLw' },
-      { icon: 'mastodon', link: 'https://fosstodon.org/@tuist'}
-    ]
-  }
-})
+      { icon: "github", link: "https://github.com/tuist" },
+      {
+        icon: "slack",
+        link: "https://join.slack.com/t/tuistapp/shared_invite/zt-1y667mjbk-s2LTRX1YByb9EIITjdLcLw",
+      },
+      { icon: "mastodon", link: "https://fosstodon.org/@tuist" },
+    ],
+  },
+});
