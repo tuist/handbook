@@ -1,6 +1,6 @@
 ---
 title: Code of conduct
-titleTemplate: :title | People | Tuist GmbH Handbook
+titleTemplate: :title | People | Tuist Handbook
 description: The code of conduct for the Tuist GmbH staff.
 ---
 
@@ -9,7 +9,7 @@ description: The code of conduct for the Tuist GmbH staff.
 - **Policy Owner:** Pedro Piñera Buendía
 - **Effective Date:** 26th August, 2024
 
-## Purpose 
+## Purpose
 
 The primary goal of Tuist GmbH’s Code of Conduct is to foster inclusive, collaborative and safe working conditions for all Tuist GmbH staff. As such, Tuist GmbH is committed to providing a friendly, safe and welcoming environment for all staff, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, or religion (or lack thereof).
 This code of conduct outlines our expectations for all Tuist GmbH staff, as well as the consequences for unacceptable behavior.

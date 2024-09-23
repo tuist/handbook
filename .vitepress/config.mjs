@@ -97,6 +97,7 @@ export default defineConfig({
           { text: "Values", link: "/people/values" },
           { text: "How we work", link: "/people/how-we-work" },
           { text: "Code of conduct", link: "/people/code-of-conduct" },
+          { text: "Onboarding", link: "/people/onboarding" },
         ],
       },
       {
