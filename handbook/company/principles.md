@@ -1,5 +1,6 @@
 ---
 title: Principles
+titleTemplate: :title | Company | Tuist Handbook
 mission: An organization is driven by its people and culture. What follows are the principles of Tuist, which together describe the foundational characteristics of the company.
 ---
 

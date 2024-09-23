@@ -1,5 +1,6 @@
 ---
 title: Mission
+titleTemplate: :title | Company | Tuist Handbook
 mission: Learn more about the mission of Tuist
 ---
 

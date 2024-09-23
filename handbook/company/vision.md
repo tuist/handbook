@@ -1,5 +1,6 @@
 ---
 title: Vision
+titleTemplate: :title | Company | Tuist Handbook
 mission: Learn more about the vision of Tuist
 ---
 
