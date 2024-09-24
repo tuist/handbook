@@ -16,3 +16,7 @@ We use [Vanta](https://vanta.com) to automate our security compliance. Vanta hel
 
 ### CanIPhish
 We use [CanIPhish](https://caniphish.com/) to provide security trainings to employees. We use them because they offer a reasonable and open pricing model.
+
+### 1Password
+
+We use [1Password](https://1password.com) to store and manage our passwords securely. 1Password helps us generate strong and unique passwords for each account, and it provides us with a secure vault to store sensitive information. We chose 1Password because it's a trusted and reliable password manager that helps us protect our data.

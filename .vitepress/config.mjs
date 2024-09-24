@@ -118,6 +118,10 @@ export default defineConfig({
             text: "Information Security Roles and Responsibilities",
             link: "/security/information-security-roles-and-responsibilities",
           },
+          {
+            text: "Password policy",
+            link: "/security/password-policy",
+          },
         ],
       },
     ],

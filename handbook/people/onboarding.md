@@ -10,6 +10,11 @@ This document contains the onboarding process for new Tuist staff. The onboardin
 
 ## Security
 
+### Training
 To ensure the security of Tuist, you are required to complete the following training modules at [caniphish.com](https://caniphish.com/):
 - Cyber-security
 - Device-security
+
+### 1Password
+
+You'll get access to our 1Password vault, which contains all the necessary credentials and information you need to get started at Tuist. Make sure to follow the password policy outlined in the [Password Policy](/security/password-policy) document.
