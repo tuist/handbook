@@ -80,4 +80,4 @@ Employees who violate this policy may face disciplinary consequences in proporti
 
 ## Version history
 
-The version history of this document can be found in Tuist's [handbook](https://github.com/Tuist GmbH/handbook) repository.
+The version history of this document can be found in Tuist's [handbook](https://github.com/tuist/handbook) repository.
