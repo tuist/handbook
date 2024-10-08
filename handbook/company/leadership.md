@@ -8,6 +8,9 @@ mission: Learn more about the leadership team at Tuist
 
 This document contains information about the leadership team at Tuist (roles and people).
 
+> [!NOTE]
+> We are a small companies, so some roles might be held by the same person. Over time, we will update this document to reflect any changes in the leadership team.
+
 | Role | Description | Person |
 | ---- | ---- | ---- |
 | Chief Executive Officer (CEO) | The CEO is responsible for the overall vision and strategy of the company. | Pedro Piñera |
