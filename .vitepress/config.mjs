@@ -112,6 +112,10 @@ export default defineConfig({
             text: "Risk management policy",
             link: "/security/risk-management-policy",
           },
+          {
+            text: "Physical security policy",
+            link: "/security/physical-security-policy",
+          },
         ],
       },
     ],

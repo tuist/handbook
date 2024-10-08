@@ -1,7 +1,7 @@
 ---
 title: Password policy
 titleTemplate: :title | Security | Tuist Handbook
-description:
+description: Learn about the password policy at Tuist
 ---
 
 # Password policy
@@ -41,3 +41,7 @@ At Tuist, protecting our systems and data is a top priority. To ensure security,
 ## Reporting Security Incidents
 
 If you suspect any suspicious activity, security breaches, or compromised passwords, report it immediately to the CIO or CISO.
+
+## Version history
+
+The version history of this document can be found in Tuist's [handbook](https://github.com/tuist/handbook) repository.
