@@ -105,8 +105,8 @@ export default defineConfig({
             link: "/security/information-security-roles-and-responsibilities",
           },
           {
-            text: "Password policy",
-            link: "/security/password-policy",
+            text: "Access control policy",
+            link: "/security/access-control-policy",
           },
           {
             text: "Risk management policy",
