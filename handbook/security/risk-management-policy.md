@@ -142,8 +142,7 @@ The following table outlines the specific risk management activities and respons
 | Role | Responsibility |
 | --- | --- |
 | President/CEO | Ultimately responsible for the acceptance and/or treatment of any risks to the organization. |
-| Chief Information Officer | Can approve the avoidance, remediation, transference, or acceptance of any risk cited in the Risk
-Register. |
+| Chief Information Officer | Can approve the avoidance, remediation, transference, or acceptance of any risk cited in the Risk Register. |
 | IT Manager / Systems Engineer | Shall be responsible for the identification and treatment plan development of all Information Security related risks. This person shall be responsible for communicating risks to top management and adopting risk treatments in accordance with executive direction. |
 
 ## Version history
@@ -314,11 +313,24 @@ Impact can range from 1 ("Very low impact") to 5 ("Very high impact").
   </tr>
 </table>
 
-| Risk level | Description |
-| ----- | --- |
-| Low (1 - 4)  | A threat event could be expected to have a limited adverse effect on organizational operations, mission capabilities, assets, individuals, customers, or other organizations. |
-| Med (5 - 14)  | A threat event could be expected to have a serious adverse effect on organizational operations, mission capabilities, assets, individuals, customers, or other organizations. |
-| High (15 - 25) | A threat event could be expected to have a severe adverse effect on organizational operations, mission capabilities, assets, individuals, customers, or other organizations. |
+<table border="1" cellpadding="10" cellspacing="0">
+  <tr>
+    <td align="center"><b>Risk level</b></td>
+    <td align="center"><b>Description</b></td>
+  </tr>
+  <tr>
+    <td align="center" bgcolor="#00B050"><b>Low (1 - 4)</b></td>
+    <td>A threat event could be expected to have a limited adverse effect on organizational operations, mission capabilities, assets, individuals, customers, or other organizations.</td>
+  </tr>
+  <tr>
+    <td align="center" bgcolor="#FFC000"><b>Med (5 - 14)</b></td>
+    <td>A threat event could be expected to have a serious adverse effect on organizational operations, mission capabilities, assets, individuals, customers, or other organizations.</td>
+  </tr>
+  <tr>
+    <td align="center" bgcolor="#FF0000"><b>High (15 - 25)</b></td>
+    <td>A threat event could be expected to have a severe adverse effect on organizational operations, mission capabilities, assets, individuals, customers, or other organizations.</td>
+  </tr>
+</table>
 
 | Impact | Description | Score |
 | --- | --- | --- |

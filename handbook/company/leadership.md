@@ -15,3 +15,4 @@ This document contains information about the leadership team at Tuist (roles and
 | Chief Information Officer (CIO) | The CIO is responsible for the company's information technology strategy. | Marek Fořt |
 | Chief Information Security Officer (CISO) | The CISO is responsible for the company's information security strategy. | Marek Fořt |
 | Compliance Officer (CO) | The Compliance Officer is responsible for ensuring that the company complies with all relevant laws and regulations. | Pedro Piñera |
+| IT Manager | The IT Manager is responsible for managing the company's IT infrastructure. | Marek Fořt |
