@@ -120,6 +120,10 @@ export default defineConfig({
             text: "Asset management policy",
             link: "/security/asset-management-policy",
           },
+          {
+            text: "Human resource security policy",
+            link: "/security/human-resource-security-policy",
+          },
         ],
       },
     ],
