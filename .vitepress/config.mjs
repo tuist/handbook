@@ -116,6 +116,10 @@ export default defineConfig({
             text: "Physical security policy",
             link: "/security/physical-security-policy",
           },
+          {
+            text: "Asset management policy",
+            link: "/security/asset-management-policy",
+          },
         ],
       },
     ],
