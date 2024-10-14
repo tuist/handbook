@@ -128,6 +128,10 @@ export default defineConfig({
             text: "Third-party risk management policy",
             link: "/security/third-party-risk-management-policy",
           },
+          {
+            text: "Incident response management",
+            link: "/security/incident-response-management",
+          },
         ],
       },
     ],
