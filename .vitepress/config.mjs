@@ -136,6 +136,10 @@ export default defineConfig({
             text: "Incident response management",
             link: "/security/incident-response-management",
           },
+          {
+            text: "Secure development policy",
+            link: "/security/secure-development-policy",
+          },
         ],
       },
     ],
