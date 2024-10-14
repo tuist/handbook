@@ -70,6 +70,10 @@ export default defineConfig({
           { text: "Technologies", link: "/engineering/technologies" },
           { text: "Open Source", link: "/engineering/open-source" },
           { text: "Standards", link: "/engineering/standards" },
+          {
+            text: "Standard practices",
+            link: "/engineering/standard-practices",
+          },
         ],
       },
       {
