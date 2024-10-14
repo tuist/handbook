@@ -12,4 +12,4 @@ In case of an incident, urgently report it to [incidents@tuist.io](mailto:incide
 
 ## Plan
 
-You can find the incident response plan in the [Incident Response Plan](/security/incident-response-plan) document.
+You can find the incident response plan in the [Incident Response Plan](/pdfs/incident-response-plan-bsi.pdf) document.
