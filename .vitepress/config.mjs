@@ -124,6 +124,10 @@ export default defineConfig({
             text: "Human resource security policy",
             link: "/security/human-resource-security-policy",
           },
+          {
+            text: "Third-party risk management policy",
+            link: "/security/third-party-risk-management-policy",
+          },
         ],
       },
     ],

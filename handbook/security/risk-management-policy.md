@@ -1,7 +1,7 @@
 ---
 title: Risk management policy
 titleTemplate: :title | Security | Tuist Handbook
-description:
+description: "To define actions to address Tuist GmbH information security risks and opportunities. To define a plan for the achievement of information security and privacy objectives."
 ---
 
 # Risk management policy
@@ -144,10 +144,6 @@ The following table outlines the specific risk management activities and respons
 | President/CEO | Ultimately responsible for the acceptance and/or treatment of any risks to the organization. |
 | Chief Information Officer | Can approve the avoidance, remediation, transference, or acceptance of any risk cited in the Risk Register. |
 | IT Manager / Systems Engineer | Shall be responsible for the identification and treatment plan development of all Information Security related risks. This person shall be responsible for communicating risks to top management and adopting risk treatments in accordance with executive direction. |
-
-## Version history
-
-The version history of this document can be found in Tuist's [handbook](https://github.com/tuist/handbook) repository.
 
 ## APPENDIX A - Risk assessment process
 
@@ -348,3 +344,7 @@ Impact can range from 1 ("Very low impact") to 5 ("Very high impact").
 | Somewhat unlikely (3) | A threat event is likely, and it can be assumed that its occurrence may be experienced. A threat source is motivated or poses the capability, but controls are in place that may significantly reduce or impede the successful exploitation of the vulnerability. | 3 |
 | Likely (4) | A threat event is likely, and it can be assumed that its occurrence will be experienced. A threat source is highly motivated or poses sufficient capability and resources, but some controls are in place that may reduce or impede the successful exploitation of the vulnerability. | 4 |
 | Very likely (5) | A threat event is highly likely, and it can be assumed that its occurrence will be experienced. A threat source is highly motivated or poses sufficient capability or resources, but no controls are in place or controls that are in place are ineffective and do not prevent or impede the successful exploitation of the vulnerability. | 5 |
+
+## Version history
+
+The version history of this document can be found in Tuist's [handbook](https://github.com/tuist/handbook) repository.
