@@ -15,6 +15,7 @@ export default defineConfig({
   titleTemplate: ":title | Tuist Handbook",
   description: "Tuist company handbook",
   srcDir: "./handbook",
+  cleanUrls: true,
   sitemap: {
     hostname: "https://handbook.tuist.io",
   },
