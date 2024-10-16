@@ -149,6 +149,10 @@ export default defineConfig({
             text: "Operations Security Policy",
             link: "/pdfs/operations-security-policy-bsi.pdf",
           },
+          {
+            text: "Cryptography policy",
+            link: "/security/cryptography-policy",
+          },
         ],
       },
     ],
