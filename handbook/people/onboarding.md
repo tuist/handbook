@@ -17,4 +17,4 @@ To ensure the security of Tuist, you are required to complete the following trai
 
 ### 1Password
 
-You'll get access to our 1Password vault, which contains all the necessary credentials and information you need to get started at Tuist. Make sure to follow the password policy outlined in the [Password Policy](/security/password-policy) document.
+You'll get access to our 1Password vault, which contains all the necessary credentials and information you need to get started at Tuist. Make sure to follow the [password policy](/security/access-control-policy.html#password-policy).
