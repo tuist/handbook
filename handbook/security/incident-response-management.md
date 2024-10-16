@@ -6,6 +6,9 @@ description: Incident response management is a set of procedures that an organiz
 
 # Incident response management
 
+- **Policy owner:** Pedro Piñera Buendía
+- **Policy owner:** Effective Date: Oct 16, 2024
+
 ## Contact information
 
 In case of an incident, urgently report it to [incidents@tuist.io](mailto:incidents@tuist.io). The incident response team will take it from there.

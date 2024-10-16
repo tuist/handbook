@@ -6,6 +6,9 @@ description: To ensure that personnel and contractors meet security requirements
 
 # Human resource security policy
 
+- **Policy owner:** Pedro Piñera Buendía
+- **Policy owner:** Effective Date: Oct 16, 2024
+
 ## Purpose
 
 To ensure that personnel and contractors meet security requirements, understand their responsibilities, and are suitable for their roles.

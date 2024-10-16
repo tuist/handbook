@@ -1,10 +1,13 @@
 ---
 title: Business continuity and disaster recovery plan
 titleTemplate: :title | Security | Tuist Handbook
-description: "To identify organizational assets and define appropriate protection responsibilities. To ensure that information receives an appropriate level of protection in accordance with its importance to the organization. To prevent unauthorized disclosure, modification, removal, or destruction of information stored on media.."
+description: "The purpose of this business continuity plan is to prepare Tuist GmbH in the event of service outages caused by factors beyond our control (e.g., natural disasters, man-made events), and to restore services to the widest extent possible in a minimum time frame."
 ---
 
 # Business continuity and disaster recovery plan
+
+- **Policy owner:** Pedro Piñera Buendía
+- **Policy owner:** Effective Date: Oct 16, 2024
 
 ## Purpose
 

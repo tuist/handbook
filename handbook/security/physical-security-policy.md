@@ -6,6 +6,9 @@ description: To prevent unauthorized physical access or damage to the organizati
 
 # Physical security policy
 
+- **Policy owner:** Pedro Piñera Buendía
+- **Policy owner:** Effective Date: Oct 16, 2024
+
 ## Purpose
 
 To prevent unauthorized physical access or damage to the organization's information and information processing facilities.

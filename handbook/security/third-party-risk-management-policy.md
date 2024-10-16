@@ -6,6 +6,9 @@ description: "To ensure protection of the organization's data and assets that ar
 
 # Third-party risk management policy
 
+- **Policy owner:** Pedro Piñera Buendía
+- **Policy owner:** Effective Date: Oct 16, 2024
+
 ## Purpose
 
 To ensure protection of the organization's data and assets that are shared with, accessible to, or managed by suppliers,

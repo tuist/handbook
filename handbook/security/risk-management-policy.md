@@ -6,6 +6,9 @@ description: "To define actions to address Tuist GmbH information security risks
 
 # Risk management policy
 
+- **Policy owner:** Pedro Piñera Buendía
+- **Policy owner:** Effective Date: Oct 16, 2024
+
 ## Purpose
 
 To define actions to address Tuist GmbH information security risks and opportunities. To define a plan for the achievement

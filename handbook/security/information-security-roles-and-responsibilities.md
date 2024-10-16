@@ -6,6 +6,9 @@ description: This document outlines the roles and responsibilities within Tuist 
 
 # Information Security Roles and Responsibilities
 
+- **Policy owner:** Pedro Piñera Buendía
+- **Policy owner:** Effective Date: Oct 16, 2024
+
 ## Statement of policy
 
 Tuist GmbH is committed to conducting business in compliance with all applicable laws, regulations, and company policies. Tuist GmbH has adopted this policy to outline the security measures required to protect electronic information systems and related equipment from unauthorized use.

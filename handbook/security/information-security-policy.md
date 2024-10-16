@@ -6,6 +6,9 @@ description: The purpose of this policy is to communicate our information securi
 
 # Information Security Policy (AUP)
 
+- **Policy owner:** Pedro Piñera Buendía
+- **Policy owner:** Effective Date: Oct 16, 2024
+
 ## Overview
 
 This Information Security Policy is intended to protect Tuist GmbH's employees, partners and the company from illegal or damaging actions by individuals, either knowingly or unknowingly.

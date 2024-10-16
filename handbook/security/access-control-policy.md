@@ -6,6 +6,9 @@ description: "To limit access to information and information processing systems,
 
 # Access control policy
 
+- **Policy owner:** Pedro Piñera Buendía
+- **Policy owner:** Effective Date: Oct 16, 2024
+
 ## Purpose
 
 To limit access to information and information processing systems, networks, and facilities to authorized parties in

@@ -145,6 +145,10 @@ export default defineConfig({
             text: "Business continuity and disaster recovery plan",
             link: "/security/business-continuity-and-disaster-recovery-plan",
           },
+          {
+            text: "Operations Security Policy",
+            link: "/pdfs/operations-security-policy-bsi.pdf",
+          },
         ],
       },
     ],

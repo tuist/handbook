@@ -6,6 +6,9 @@ description:
 
 # Secure development policy
 
+- **Policy owner:** Pedro Piñera Buendía
+- **Policy owner:** Effective Date: Oct 16, 2024
+
 ## Purpose
 
 To ensure that information security is designed and implemented within the development lifecycle for applications and information systems.
