@@ -141,6 +141,10 @@ export default defineConfig({
             text: "Secure development policy",
             link: "/security/secure-development-policy",
           },
+          {
+            text: "Business continuity and disaster recovery plan",
+            link: "/security/business-continuity-and-disaster-recovery-plan",
+          },
         ],
       },
     ],
