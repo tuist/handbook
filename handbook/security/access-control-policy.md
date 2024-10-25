@@ -138,7 +138,7 @@ users. Users shall protect secret authentication information in accordance with 
 
 ## Password policy
 
-- Where feasible, passwords for confidential systems shall be configured to have at least eight (8) or more characters, one upper case, one number
+- Where feasible, passwords for confidential systems shall be configured to have at least eight (8) or more characters, one upper case, one lower case, one special character, one number
 - Systems shall be configured to remember and prohibit reuse of passwords for last 16 passwords used
 - Passwords shall be set to lock out after 6 failed attempts
 - For manual password resets, a user's identity must be verified prior to changing passwords
