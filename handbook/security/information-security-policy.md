@@ -79,39 +79,38 @@ Remote working refers to any situation where organizational personnel operate fr
 - Users shall use a VPN when transmitting confidential information on public Wi-Fi
 - If you access from a public computer (e.g., from a business center, hotel, etc.), log out of the session and don't save anything. Don't check “remember me”, collect all printed materials and do not download files to a non-Tuist GmbH controlled system.
 
-## Acceptable use policy
+## Acceptable Use Policy
 
-Tuist GmbH proprietary and customer information stored on electronic and computing devices, whether owned or leased by Tuist GmbH, the employee or a third party, remains the sole property of Tuist GmbH for the purposes of this policy. Employees and contractors must ensure through legal or technical means that proprietary information is protected in accordance with the Data Management Policy. The use of [NextCloud](https://storage.tuist.io) for business file storage is required for users of laptops or company issued devices. Storing important documents on the file share is how you “backup” your laptop.
+Tuist GmbH proprietary and customer information stored on electronic and computing devices, whether owned or leased by Tuist GmbH, the employee, or a third party, remains the sole property of Tuist GmbH for the purposes of this policy. Employees and contractors must ensure through legal or technical means that proprietary information is protected in accordance with the Data Management Policy. The use of [NextCloud](https://storage.tuist.io) for business file storage is required for users of laptops or company-issued devices. Storing important documents on the file share serves as the "backup" for your laptop.
 
-You have a responsibility to promptly report the theft, loss, or unauthorized disclosure of Tuist GmbH proprietary information or equipment. You may access, use or share Tuist GmbH proprietary information only to the extent it is authorized and necessary to fulfill your assigned job duties. Employees are responsible for exercising good judgment regarding the reasonableness of personal use of company-provided devices.
+Employees and contractors must use Tuist GmbH systems only for authorized purposes. You may access, use, or share Tuist GmbH proprietary information only to the extent it is authorized and necessary to fulfill your assigned job duties. Proprietary information must be protected according to the Data Management Policy, and employees are prohibited from sharing this information without proper authorization, both during and after employment.
 
-For security and network maintenance purposes, authorized individuals within Tuist GmbH may monitor equipment, systems and network traffic at any time.
+Upon termination of employment, all company-owned devices must be returned, and all company data and accounts must be removed from personal devices.
 
-Tuist GmbH reserves the right to audit networks and systems on a periodic basis to ensure compliance with this policy.
+You have a responsibility to promptly report the theft, loss, or unauthorized disclosure of Tuist GmbH proprietary information or equipment. Employees are responsible for exercising good judgment regarding the reasonableness of personal use of company-provided devices.
 
-## Unacceptable use
+For security and network maintenance purposes, authorized individuals within Tuist GmbH may monitor equipment, systems, and network traffic at any time.
 
-The following activities are, in general, prohibited. Employees may be exempted from these restrictions during the course of their legitimate job responsibilities with properly documented Management approval. Under no circumstances is an employee of Tuist GmbH authorized to engage in any activity that is illegal under local, state, federal or international law while utilizing Tuist GmbH-owned resources or while representing Tuist GmbH in any capacity. The list below is not exhaustive, but attempts to provide a framework for activities which fall into the category of unacceptable use.
+Tuist GmbH reserves the right to audit networks and systems periodically to ensure compliance with this policy.
+
+## Unacceptable Use
+
+The following activities are prohibited. Employees may be exempted from these restrictions during legitimate job responsibilities with properly documented Management approval. Under no circumstances is an employee of Tuist GmbH authorized to engage in illegal activities under local, state, federal, or international law while utilizing Tuist GmbH-owned resources or while representing Tuist GmbH in any capacity.
 
 The following activities are strictly prohibited, with no exceptions:
 
-1. Violations of the rights of any person or company protected by copyright, trade secret, patent, or other intellectual property, or similar laws or regulations, including, but not limited to, the installation or distribution of "pirated" or other software products that are not appropriately licensed for use by Tuist GmbH
-2. Unauthorized copying of copyrighted material including, but not limited to, digitization and distribution of photographs from magazines, books, or other copyrighted sources, copyrighted music, and the installation of any copyrighted software for which Tuist GmbH or the end user does not have an active license
-3. Accessing data, a server, or an account for any purpose other than conducting Tuist GmbH business, even if you have authorized access, is prohibited
-4. Exporting software, technical information, encryption software, or technology, in violation of international or regional export control laws, is illegal. The appropriate management shall be consulted prior to export of any material that is in question
-5. Introduction of malicious programs into the network or systems (e.g., viruses, worms, Trojan horses, email bombs, etc.)
-6. Revealing your account password to others or allowing use of your account by others. This includes family and other household members when work is being done at home
-7. Using a Tuist GmbH computing asset to actively engage in procuring or transmitting material that is in violation of sexual harassment or hostile workplace laws
-8. Making fraudulent offers of products, items, or services originating from any Tuist GmbH account
-9. Making statements about warranty, expressly or implied, unless it is a part of normal job duties
-10. Effecting security breaches or disruptions of network communication. Security breaches include, but are not limited to, accessing data of which the employee is not an intended recipient, or logging into a server or account that the employee is not expressly authorized to access, unless these duties are within the scope of regular duties. For purposes of this section, "disruption" includes, but is not limited to, network sniffing, pinged floods, packet spoofing, denial of service, and forged routing information for malicious purposes
-11. Port scanning or security scanning is expressly prohibited unless prior notification to the Tuist GmbH engineering team is made
-12. Executing any form of network monitoring which will intercept data not intended for the employee's host, unless this activity is a part of the employee's normal job/duty
-13. Circumventing user authentication or security of any host, network, or account
-14. Introducing honeypots, honeynets, or similar technology on the Tuist GmbH network
-15. Interfering with or denying service to any user other than the employee's host (for example, denial of service attack)
-16. Using any program/script/command, or sending messages of any kind, with the intent to interfere with, or disable, a user's session, via any means
-17. Providing information about, or lists of: Tuist GmbH employees, contractors, partners, or customers to parties outside Tuist GmbH without authorization
+1. Violating the rights of any person or company protected by copyright, trade secret, patent, or other intellectual property laws, including the installation or distribution of pirated or unlicensed software
+2. Copying copyrighted material without authorization, including but not limited to, digitization and distribution of media or software not licensed for use by Tuist GmbH
+3. Accessing data, servers, or accounts without proper authorization or for purposes other than conducting Tuist GmbH business
+4. Exporting software, technical information, encryption software, or technology in violation of export control laws
+5. Introducing malicious programs into the network or systems (e.g., viruses, worms, Trojan horses, etc.)
+6. Sharing account passwords or allowing unauthorized use of accounts, including by family or household members
+7. Using Tuist GmbH systems to engage in activities violating sexual harassment or hostile workplace laws
+8. Making fraudulent offers of products, services, or warranties
+9. Engaging in unauthorized security breaches or disruptions of network communication, including denial of service attacks or unauthorized monitoring
+10. Circumventing security measures or introducing unauthorized systems or devices (e.g., honeypots)
+11. Providing information about Tuist GmbH employees, contractors, partners, or customers without proper authorization
+12. Failing to remove proprietary information or accounts from personal devices upon termination of employment.
 
 ## Email and communication activities
 
