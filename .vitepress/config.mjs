@@ -154,9 +154,13 @@ export default defineConfig({
             link: "/security/cryptography-policy",
           },
           {
+            text: "Network traffic management policy",
+            link: "/security/network-traffic-management-policy",
+          },
+          {
             text: "Data management policy",
-            link: "/pdfs/data-management-policy-bsi.pdf"
-          }
+            link: "/pdfs/data-management-policy-bsi.pdf",
+          },
         ],
       },
     ],
