@@ -6,7 +6,7 @@ description:
 
 # Shared responsibility model
 
-At Tuist, we rely on trusted infrastructure providers, such as [Fly.io](https://fly.io) and [Tigris](https://tigrisdata.com), to manage key aspects of our infrastructure security. These partnerships enable us to deliver reliable and secure services while focusing on application and data-level security.
+At Tuist, we rely on trusted infrastructure providers, such as [Fly.io](https://fly.io), [Tigris](https://tigrisdata.com) and [Supabase](https://supabase.com), to manage key aspects of our infrastructure security. These partnerships enable us to deliver reliable and secure services while focusing on application and data-level security.
 
 This document outlines the shared responsibility model between Tuist and its infrastructure providers, detailing the security areas managed by each party.
 
@@ -49,6 +49,28 @@ For additional details, review Tigris’s [Privacy Policy](https://www.tigrisdat
 - Implementing proper database access controls.
 - Encrypting sensitive data before storing it in Tigris.
 - Regularly auditing and monitoring database usage and queries for anomalies.
+
+## Supabase: Security Responsibilities
+
+[Supabase](https://supabase.com) manages and scales our Postgres database.
+
+### **Supabase's Responsibilities:**
+
+1. **Data Security**
+   - Encryption of data at rest and in transit.
+   - Regular security audits and compliance with standards such as GDPR and CCPA.
+2. **Authentication and Authorization**
+   - Secure handling of authentication flows and token-based authorization mechanisms.
+3. **Platform Monitoring**
+   - Proactive monitoring for vulnerabilities and automated updates to ensure platform reliability.
+
+For more details, refer to Supabase’s [Security Documentation](https://supabase.com/security).
+
+### **Tuist's Responsibilities on Supabase:**
+- Implementing secure configurations for authentication and access control.
+- Protecting user data by applying proper encryption where necessary.
+- Monitoring usage patterns to detect and respond to suspicious activity.
+
 
 ## Shared Responsibility Benefits
 
