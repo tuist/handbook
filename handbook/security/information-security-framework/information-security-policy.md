@@ -31,7 +31,7 @@ This policy applies to employees, contractors, consultants, temporaries, and oth
 
 ## Security incident reporting
 
-All users are required to report known or suspected security events or incidents, including policy violations and observed security weaknesses. Incidents shall be reported immediately or as soon as possible by sending email to [security@tuist.io](mailto:security@tuist.io).
+All users are required to report known or suspected security events or incidents, including policy violations and observed security weaknesses. Incidents shall be reported immediately or as soon as possible by sending email to [security@tuist.dev](mailto:security@tuist.dev).
 
 In your report, please describe the incident or observation along with any relevant details.
 
