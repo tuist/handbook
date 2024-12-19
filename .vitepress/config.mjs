@@ -231,6 +231,10 @@ export default defineConfig({
         icon: "slack",
         link: "https://join.slack.com/t/tuistapp/shared_invite/zt-1y667mjbk-s2LTRX1YByb9EIITjdLcLw",
       },
+      {
+        icon: "bluesky",
+        link: "https://bsky.app/profile/tuist.dev",
+      },
       { icon: "mastodon", link: "https://fosstodon.org/@tuist" },
     ],
   },

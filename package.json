@@ -4,8 +4,8 @@
   "description": "A handbook for Tuist",
   "private": true,
   "devDependencies": {
-    "vitepress": "^1.2.2",
-    "wrangler": "^3.28.2"
+    "vitepress": "^1.5.0",
+    "wrangler": "^3.98.0"
   },
   "scripts": {
     "dev": "vitepress dev",
