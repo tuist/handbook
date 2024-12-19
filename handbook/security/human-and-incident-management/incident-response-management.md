@@ -11,7 +11,7 @@ description: Incident response management is a set of procedures that an organiz
 
 ## Contact information
 
-In case of an incident, urgently report it to [incidents@tuist.io](mailto:incidents@tuist.io). The incident response team will take it from there.
+In case of an incident, urgently report it to [incidents@tuist.dev](mailto:incidents@tuist.dev). The incident response team will take it from there.
 
 ## Plan
 
