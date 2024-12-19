@@ -1,6 +1,6 @@
 ---
 title: Asset management policy
-titleTemplate: :title | Security | Tuist Handbook
+titleTemplate: :title | Physical and asset security | Security | Tuist Handbook
 description: "To identify organizational assets and define appropriate protection responsibilities. To ensure that information receives an appropriate level of protection in accordance with its importance to the organization. To prevent unauthorized disclosure, modification, removal, or destruction of information stored on media.."
 ---
 
@@ -27,7 +27,7 @@ Assets maintained in the inventory shall be owned by a specific individual or gr
 
 ## Acceptable use of assets
 
-Rules for the acceptable use of information, assets, and information processing facilities shall be identified and documented in the [Information Security Policy](/security/information-security-policy).
+Rules for the acceptable use of information, assets, and information processing facilities shall be identified and documented in the [Information Security Policy](/security/information-security-framework/information-security-policy).
 
 
 ## Loss or theft of assets
@@ -48,7 +48,7 @@ exercise due care in protecting and maintaining the equipment.
 
 Employees are responsible for ensuring that company equipment is secured and properly attended to whenever it is transported or stored outside of company facilities.
 
-All mobile devices shall be handled in accordance with the [Information Security Policy](/security/information-security-policy).
+All mobile devices shall be handled in accordance with the [Information Security Policy](/security/information-security-framework/information-security-policy).
 
 Excepting employee-issued devices, no company computer equipment or devices may be moved or taken off-site without appropriate authorization from management.
 

@@ -1,6 +1,6 @@
 ---
 title: Information Security Policy (AUP)
-titleTemplate: :title | Security | Tuist Handbook
+titleTemplate: :title | Information security framework | Security | Tuist Handbook
 description: The purpose of this policy is to communicate our information security policies and outline the acceptable use and protection of the company’s information and assets.
 ---
 

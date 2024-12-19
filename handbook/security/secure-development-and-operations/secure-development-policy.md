@@ -1,6 +1,6 @@
 ---
 title: Secure development policy
-titleTemplate: :title | Security | Tuist Handbook
+titleTemplate: :title | Secure development and operations | Security | Tuist Handbook
 description:
 ---
 

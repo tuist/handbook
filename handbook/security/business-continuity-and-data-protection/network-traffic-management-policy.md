@@ -1,6 +1,6 @@
 ---
 title: Network traffic management policy
-titleTemplate: :title | Security | Tuist Handbook
+titleTemplate: :title | Business continuity and data protection | Security | Tuist Handbook
 description: "This policy establishes procedures for monitoring, managing, and securing network traffic to protect Tuist GmbH’s infrastructure."
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Third-party risk management policy
-titleTemplate: :title | Security | Tuist Handbook
+titleTemplate: :title | Access and risk management | Security | Tuist Handbook
 description: "To ensure protection of the organization's data and assets that are shared with, accessible to, or managed by suppliers, including external parties or third-party organizations such as service providers, vendors, and customers, and to maintain an agreed level of information security and service delivery in line with supplier agreements."
 ---
 

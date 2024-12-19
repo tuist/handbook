@@ -1,6 +1,6 @@
 ---
 title: Human resource security policy
-titleTemplate: :title | Security | Tuist Handbook
+titleTemplate: :title  | Human and incident management | Security | Tuist Handbook
 description: To ensure that personnel and contractors meet security requirements, understand their responsibilities, and are suitable for their roles.
 ---
 

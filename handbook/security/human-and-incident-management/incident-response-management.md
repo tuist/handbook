@@ -1,6 +1,6 @@
 ---
 title: Incident response management
-titleTemplate: :title | Security | Tuist Handbook
+titleTemplate: :title | Human and incident management | Security | Tuist Handbook
 description: Incident response management is a set of procedures that an organization follows when an incident occurs. The goal is to minimize the damage and reduce recovery time and costs.
 ---
 
@@ -15,4 +15,4 @@ In case of an incident, urgently report it to [incidents@tuist.io](mailto:incide
 
 ## Plan
 
-You can find the incident response plan in the [Incident Response Plan](/pdfs/incident-response-plan-bsi.pdf) document.
+You can find the incident response plan in the [Incident Response Plan](/pdfs/security/human-and-incident-management/incident-response-plan-bsi.pdf) document.

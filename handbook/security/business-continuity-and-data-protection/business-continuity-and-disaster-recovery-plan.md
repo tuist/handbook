@@ -1,6 +1,6 @@
 ---
 title: Business continuity and disaster recovery plan
-titleTemplate: :title | Security | Tuist Handbook
+titleTemplate: :title | Business continuity and data protection | Security | Tuist Handbook
 description: "The purpose of this business continuity plan is to prepare Tuist GmbH in the event of service outages caused by factors beyond our control (e.g., natural disasters, man-made events), and to restore services to the widest extent possible in a minimum time frame."
 ---
 
@@ -41,7 +41,7 @@ Executive staff and senior managers should be notified of any disaster affecting
 
 Communications shall take place over approved channels such as email and [the status page](https://status.tuist.io).
 
-Key communication contacts are maintained in [this list](/security/incident-response-management).
+Key communication contacts are maintained in [this list](/security/human-and-incident-management/incident-response-management).
 
 ## Roles and responsibilities
 

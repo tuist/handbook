@@ -1,6 +1,6 @@
 ---
 title: Physical security policy
-titleTemplate: :title | Security | Tuist Handbook
+titleTemplate: :title | Physical and asset security | Security | Tuist Handbook
 description: To prevent unauthorized physical access or damage to the organization's information and information processing facilities.
 ---
 
