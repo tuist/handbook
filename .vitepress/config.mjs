@@ -125,6 +125,10 @@ export default defineConfig({
         collapsed: true,
         items: [
           {
+            text: "Shared responsibility model",
+            link: "/security/shared-responsibility-model",
+          },
+          {
             text: "Information security framework",
             collapsed: true,
             items: [
