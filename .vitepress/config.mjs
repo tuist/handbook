@@ -207,10 +207,13 @@ export default defineConfig({
             collapsed: true,
             items: [
               {
+                text: "Data-loss prevention",
+                link: "/security/business-continuity-and-data-protection/data-loss-prevention",
+              },
+              {
                 text: "Business continuity and disaster recovery plan",
                 link: "/security/business-continuity-and-data-protection/business-continuity-and-disaster-recovery-plan",
               },
-
               {
                 text: "Cryptography policy",
                 link: "/security/business-continuity-and-data-protection/cryptography-policy",
