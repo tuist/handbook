@@ -30,7 +30,6 @@ To prevent data exfiltration via physical media:
 ## Planned Improvements
 As part of our ongoing commitment to enhancing data-loss prevention, we aim to roll out advanced Data Loss Prevention (DLP) solutions in the following areas by H2 2025:
 - **Email Systems:** Implementing DLP mechanisms to monitor and control the transmission of sensitive information via email.
-- **Remote Storage Solutions:** Deploying DLP solutions to enforce data security policies across remote storage platforms.
 
 ## Roles and Responsibilities
 - **Policy Owner:** Responsible for overseeing the implementation and adherence to the data-loss prevention mechanisms.
