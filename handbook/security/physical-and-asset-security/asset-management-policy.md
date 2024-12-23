@@ -29,7 +29,6 @@ Assets maintained in the inventory shall be owned by a specific individual or gr
 
 Rules for the acceptable use of information, assets, and information processing facilities shall be identified and documented in the [Information Security Policy](/security/information-security-framework/information-security-policy).
 
-
 ## Loss or theft of assets
 
 All Tuist GmbH personnel must immediately report the loss of any information systems, including portable or laptop
