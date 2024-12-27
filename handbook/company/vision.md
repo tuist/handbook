@@ -6,13 +6,13 @@ mission: Learn more about the vision of Tuist
 
 # Vision
 
-**Our vision is to make building at scale easy and delightful for everyone.**
+**To create a platform where developers seamlessly craft exceptional apps for any platform, accelerating innovation and collaboration.**
 
-We believe that building software should be a joyful experience, not a painful one. Our goal is to empower developers to focus on what matters most: creating great products. As projects scale, building software often becomes complex and challenging, as many small-scale assumptions and tools no longer apply. Traditionally, organizations have addressed this by absorbing the cost of building and maintaining custom tools and infrastructure, or learning complex tools. However, **we believe that building software at scale should be accessible to everyone**, not just those who can afford it.
+Our vision is to create a platform where developers can seamlessly craft exceptional software for any platform, from iOS and Android to [React Native](https://reactnative.dev/) and [Flutter](https://flutter.dev/). By removing barriers in the development process, we aim to empower teams to focus on what truly matters: delivering high-quality apps that meets the needs of their users. 
 
-While our initial focus has been on Apple platforms, we believe the principles and tools we are developing can be applied to other ecosystems. We aspire to make building at scale delightful for everyone, regardless of the platform they are targeting.
+Our platform is designed to accelerate innovation, enabling developers to iterate faster and bring their ideas to life with unprecedented speed. At the heart of this vision is collaboration—building a community-driven ecosystem where developers come together to learn, share, and contribute toward a brighter future for software development.
 
-## What makes us different
+## Think different™️
 
 At the core of our company and software is a commitment to [openness](/engineering/open-source.html). We believe **the best ideas can come from anywhere**, and to harness this potential, we foster an environment where everyone can contribute. We embrace openness with curiosity and confidence, not fear.
 
