@@ -27,4 +27,4 @@ We believe that a simpler solution comes from taking a more holistic view of dev
 
 Our goal is to understand this entire lifecycle and provide developers with the most effective solutions. By doing so, we ensure that the journey from idea to launch is as seamless as possible. Developers shouldn't have to spend time searching for the right tool or making decisions about their workflow—that's our job, driven by the insights we've gained from the needs of the community.
 
-Think of Tuist as something you seamlessly integrate into your repository and then forget.
+Think of Tuist as something you seamlessly integrate into your repository and then it just works effortlessly.
