@@ -129,6 +129,10 @@ export default defineConfig({
             link: "/security/shared-responsibility-model",
           },
           {
+            text: "Emplyee termination security policy",
+            link: "/security/employee-termination-security-policy",
+          },
+          {
             text: "Information security framework",
             collapsed: true,
             items: [
