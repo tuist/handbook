@@ -16,7 +16,7 @@ We believe app development should—and must—follow a similar path. Developers
 
 The time has come to revolutionize app development by creating a platform that truly empowers developers to focus on what they do best—building exceptional apps.
 
-> [!TIP] FROM APPLE TO OTHER PLATFORMS
+> [!NOTE] FROM APPLE TO OTHER PLATFORMS
 > We were born in the Apple ecosystem, but we believe the principles and tools we are developing can be applied to other ecosystems. We aspire to make building at scale delightful for everyone, regardless of the platform they are targeting.
 
 ## The app lifecycle
