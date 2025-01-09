@@ -17,6 +17,13 @@ Following these guidelines ensures transparent and timely communication about sy
 | Standard | Limited service interruption       | 3 days       |
 | Major    | Significant service interruption   | 7 days       |
 
+### Scheduling
+
+For activities that we expect to cause a service interruption (standard or major), we aim to place the maintenance window to not overlap
+with business hours of our customers. This ensures that the interruption has minimal impact on the user experience.
+
+Given the distributed nature of our customer base, planning should take into account all time zones of the affected users.
+
 ### Messaging
 
 All maintenance announcements, regardless of category, should include:
@@ -48,6 +55,7 @@ for transparency and for risk management.
 
 - Status page
 - Slack announcement
+- Community forum post (optional)
 
 #### Standard Maintenance
 
@@ -92,4 +100,4 @@ the service is unavailable for an extended period of time.
 - Slack announcement
 - Social media announcement
 - Community forum post
-- Direct message to enterprise users
+- Email notification for all affected users
