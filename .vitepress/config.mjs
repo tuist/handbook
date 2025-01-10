@@ -98,6 +98,10 @@ export default defineConfig({
             text: "Standard practices",
             link: "/engineering/standard-practices",
           },
+          {
+            text: "Scheduled maintenance",
+            link: "/engineering/scheduled-maintenance",
+          },
         ],
       },
       {
