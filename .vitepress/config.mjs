@@ -101,6 +101,16 @@ export default defineConfig({
         ],
       },
       {
+        text: `<div style="display: flex; flex-direction: row; align-items: center; gap: 7px;">Community ${codeBrowserIcon()}</div>`,
+        collapsed: true,
+        items: [
+          {
+            text: "Swift Stories Newsletter",
+            link: "/community/swift-stories",
+          },
+        ],
+      },
+      {
         text: `<div style="display: flex; flex-direction: row; align-items: center; gap: 7px;">Support ${lifeBuoy02Icon()}</div>`,
         collapsed: true,
         items: [{ text: "Process", link: "/support/process" }],
