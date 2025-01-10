@@ -17,14 +17,14 @@ The list of subscribers is managed by our self-hosted instance of [Listmonk](htt
 
 Issues are also available through the web (e.g. [tuist.dev/newsletter/issues/1](https://tuist.dev/newsletter/issues/1)), and the [Atom](https://tuist.dev/newsletter/atom.xml) and [RSS](https://tuist.dev/newsletter/rss.xml) feeds.
 
-## Writing a new issue
+## Write a new issue
 
 1. Create a new file at `/priv/marketing/newsletter/issues/{number}.yml` where `number` is the number of the issue. We recommend updating the last one and updating the content.
 2. You can dev the server, and acccess the issue at `/newsletter/issues/{number}`.
 3. Once you are happy with the content, send yourself a test email to ensure the content looks good. For that, access the same page with the param `?email`, and using the developer tools, copy the whole markup of the page.
 4. At [lists.tuist.dev](https://tuist.dev), create a new campaign. The name and subject are not relevant because it's just a test. **Ensure you select the testing list and the Swift Stories template**. In the Content tab, paste the raw HTML, and then send the campaign. The team should receive an email with the content.
 
-## Publishing a new issue
+## Publish a new issue
 
 Once the issue is ready, you can schedule it for publication. To do that, you need to:
 

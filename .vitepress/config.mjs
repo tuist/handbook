@@ -7,6 +7,7 @@ import {
   cubeOutlineIcon,
   lifeBuoy02Icon,
   faceIdIcon,
+  intersectCircleIcon,
 } from "./icons.mjs";
 import * as path from "node:path";
 import * as fs from "node:fs/promises";
@@ -101,7 +102,7 @@ export default defineConfig({
         ],
       },
       {
-        text: `<div style="display: flex; flex-direction: row; align-items: center; gap: 7px;">Community ${codeBrowserIcon()}</div>`,
+        text: `<div style="display: flex; flex-direction: row; align-items: center; gap: 7px;">Community ${intersectCircleIcon()}</div>`,
         collapsed: true,
         items: [
           {
