@@ -9,7 +9,7 @@ description: Swift Stories is a bi-weeky newsletter that features stories from a
 [Swift Stories](https://community.tuist.dev/t/swift-stories-newsletter/275) is a bi-weeky newsletter that features stories from and for the Swift community to spark inspiration.
 
 > [!NOTE]
-> The newsletter issues are curated abou Tuist, but **not about Tuist**. While readers of the newsletter might build bonds with the Tuist brand and community through the newsletter, the primary goal is to provide value to the Swift community.
+> The newsletter issues are curated by Tuist, but **not about Tuist**. While readers of the newsletter might build bonds with the Tuist brand and community through the newsletter, the primary goal is to provide value to the Swift community.
 
 ## Overview
 
