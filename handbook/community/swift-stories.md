@@ -13,7 +13,7 @@ description: Swift Stories is a bi-weeky newsletter that features stories from a
 
 ## Overview
 
-The list of subscribers is managed by our self-hosted instance of [Listmonk](https://listmonk.app) at [lists.tuist.dev](https://lists.tuist.dev). People can subscribe through the from at [tuist.dev/newsletter](https://tuist.dev/newsletter), and they can unsubscribe at any time by clicking the link at the bottom of the newsletter.
+The list of subscribers is managed by our self-hosted instance of [Listmonk](https://listmonk.app) at [lists.tuist.dev](https://lists.tuist.dev). People can subscribe through the form at [tuist.dev/newsletter](https://tuist.dev/newsletter), and they can unsubscribe at any time by clicking the link at the bottom of the newsletter.
 
 Issues are also available through the web (e.g. [tuist.dev/newsletter/issues/1](https://tuist.dev/newsletter/issues/1)), and the [Atom](https://tuist.dev/newsletter/atom.xml) and [RSS](https://tuist.dev/newsletter/rss.xml) feeds.
 
