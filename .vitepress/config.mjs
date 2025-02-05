@@ -103,6 +103,15 @@ export default defineConfig({
             text: "Scheduled maintenance",
             link: "/engineering/scheduled-maintenance",
           },
+          {
+            text: "Server",
+            items: [
+              {
+                text: "Error handling",
+                link: "/engineering/server/error-handling",
+              },
+            ],
+          },
         ],
       },
       {
