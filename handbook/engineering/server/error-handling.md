@@ -1,7 +1,7 @@
 ---
 title: Error handling
 titleTemplate: :title | Server | Engineering | Tuist Handbook
-description: Our approah to error handling using Elixir on the server.
+description: Our approach to error handling using Elixir on the server.
 ---
 
 # Error handling
