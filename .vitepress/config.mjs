@@ -81,6 +81,7 @@ export default defineConfig({
           { text: "Principles", link: "/company/principles" },
           { text: "Services and tools", link: "/company/services-and-tools" },
           { text: "Leadership", link: "/company/leadership" },
+          { text: "6-week cycles", link: "/company/6-week-cycles" },
         ],
       },
       {
