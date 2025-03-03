@@ -1,7 +1,7 @@
 ---
 title: 6-week cycles
 titleTemplate: :title | Company | Tuist Handbook
-mission: Learn more about the leadership team at Tuist
+mission: Understand Tuist's 6-week project cycle approach and its benefits
 ---
 
 # 6-week cycles
