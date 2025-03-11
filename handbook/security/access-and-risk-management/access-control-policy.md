@@ -7,7 +7,7 @@ description: "To limit access to information and information processing systems,
 # Access control policy
 
 - **Policy owner:** Pedro Piñera Buendía
-- **Policy owner:** Effective Date: Oct 16, 2024
+- **Effective Date:** Oct 16, 2024
 
 ## Purpose
 
@@ -215,21 +215,47 @@ The version history of this document can be found in Tuist's [handbook](https://
 
 ## APPENDIX A — Access management procedure
 
-1. **Overview**
-  - This procedure outlines the process for managing access to company systems and resources, ensuring necessary
-access rights while maintaining security and compliance standards.
-2. **Initiation and Standard Access Provisioning**
-  - Onboarding Completion: HR sends an email to the IT Service Desk upon completion of the employee onboarding process, generating service tickets for access.
-  - Provisioning Access: IT provisions access to all company-wide systems and engineering systems for Members of Technical Staff (MTS), including email, intranet, development environments, and collaboration tools.
-3. **Requesting Additional Access**
-  - Access Request: Employees or managers submit requests for additional access through the IT Service Desk portal, including necessary details and justification.
-  - Approval Process: The request is reviewed and approved by the appropriate manager or system owner.
-4. **Provisioning and Notification of Approved Access**
-  - Provisioning: IT provisions the approved access and updates the service ticket.
-  - Notification: IT notifies the employee and manager of the granted access, including any conditions or limitations.
-5. **Access Review and Revocation**
-  - Periodic Review: IT conducts periodic reviews to ensure access is still required and appropriate.
-  - Revocation: When an employee changes roles or leaves the company, HR notifies IT to revoke access, updating the service tickets accordingly.
+### 1. Access Request Process
+
+#### 1.1 Standard Access Provisioning
+- **Onboarding Completion:** HR sends an email to the IT Service Desk upon completion of the employee onboarding process, generating service tickets for access.
+- **Standard Provisioning:** IT provisions access to company-wide systems based on the employee's role according to the Access Matrix (Appendix B).
+
+#### 1.2 GitHub-Based Access Request Process
+- **Request Creation:** For additional access beyond standard role-based access, employees must create an issue in the access-request-management repository using the provided template.
+- **Required Information:** The request must include:
+  - Requestor information (name, role, department, manager)
+  - Specific systems or resources requested
+  - Type of access needed (read, write, admin, etc.)
+  - Business justification
+  - Duration of access (permanent or temporary with end date)
+  - Additional justification for privileged access, if applicable
+
+#### 1.3 Review and Approval
+- **Manager Approval:** The requestor's manager must review and approve the request by commenting on the GitHub issue.
+- **System Owner Approval:** For sensitive systems, the system owner must also approve the request.
+- **Documentation:** All approvals must be documented directly in the GitHub issue.
+
+#### 1.4 Implementation
+- **Provisioning:** Upon approval, IT will provision the requested access and document the implementation details in the GitHub issue.
+- **Notification:** The requestor will be notified via a comment in the GitHub issue when access has been granted.
+- **Issue Closure:** The GitHub issue will be closed only after access has been successfully granted and verified.
+
+### 2. Access Review and Revocation
+
+#### 2.1 Periodic Reviews
+- **Regular Audits:** IT will conduct periodic reviews of access rights by auditing the GitHub issues repository.
+- **Documentation:** Results of access reviews will be documented in separate GitHub issues tagged with "access-review".
+
+#### 2.2 Role Changes and Departures
+- **Role Change Process:** When an employee changes roles, a new GitHub issue must be created to document required access changes.
+- **Departure Process:** When an employee leaves, HR will create a GitHub issue to initiate the access revocation process.
+- **Timeframe:** All access revocation must be completed within 24 business hours of an employee's departure.
+
+### 3. Audit Trail
+- **Issue History:** All GitHub issues related to access requests will be maintained as a permanent record.
+- **Retention:** Access request records will be retained for a minimum of one year.
+- **Compliance Reporting:** The GitHub repository will serve as the primary source for access management during compliance audits.
 
 ## APPENDIX B — Access matrix
 
