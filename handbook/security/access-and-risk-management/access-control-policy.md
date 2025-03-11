@@ -222,7 +222,7 @@ The version history of this document can be found in Tuist's [handbook](https://
 - **Standard Provisioning:** IT provisions access to company-wide systems based on the employee's role according to the Access Matrix (Appendix B).
 
 #### 1.2 GitHub-Based Access Request Process
-- **Request Creation:** For additional access beyond standard role-based access, employees must create an issue in the access-request-management repository using the provided template.
+- **Request Creation:** For additional access beyond standard role-based access, employees must create an issue in the [access](https://github.com/tuist/access) repository using the provided template.
 - **Required Information:** The request must include:
   - Requestor information (name, role, department, manager)
   - Specific systems or resources requested
