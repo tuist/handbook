@@ -34,7 +34,7 @@ Algorithms prioritize fresh, quick, and eye-catching content—a trend AI is amp
 
 Amid the overwhelming noise, people are weary. They cherish stumbling upon a signal—something substantial in an ocean of chaos. We aim to be that signal: a deliberate counterpoint to a world obsessed with speed.
 
-Accessibility is the foundation. That means open web platforms. Let’s choose [the Community Forum](https://community.tuist.dev) over [Slack](https://slack.com) for rich, searchable discussions—spaces where deep ideas can breathe and be discovered. Let’s craft content on our blog and share it on open networks like [Bluesky](https://bsky.app/profile/tuist.dev) or [Mastodon](https://fosstodon.org/@tuist), where we control our voice, not closed silos. LinkedIn’s an option, though its vibe feels off.
+Accessibility is the foundation. That means open web platforms. Let’s choose [the Community Forum](https://community.tuist.dev) over [Slack](https://slack.com) for rich, searchable discussions—spaces where deep ideas can breathe and be discovered. Our videos are published on our [PeerTube](https://joinpeertube.org/) instance at [videos.tuist.dev](https://videos.tuist.dev). We own the content. Let’s craft content on our blog and share it on open networks like [Bluesky](https://bsky.app/profile/tuist.dev) or [Mastodon](https://fosstodon.org/@tuist), where we control our voice, not closed silos. LinkedIn’s an option, though its vibe feels off.
 
 SEO isn’t complicated—here’s how we approach it:
 
