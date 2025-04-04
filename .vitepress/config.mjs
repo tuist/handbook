@@ -143,7 +143,10 @@ export default defineConfig({
       {
         text: `<div style="display: flex; flex-direction: row; align-items: center; gap: 7px;">Marketing ${target04Icon()}</div>`,
         collapsed: true,
-        items: [{ text: "Case studies", link: "/marketing/case-studies" }],
+        items: [
+          { text: "Guidelines", link: "/marketing/guidelines" },
+          { text: "Case studies", link: "/marketing/case-studies" },
+        ],
       },
       {
         text: `<div style="display: flex; flex-direction: row; align-items: center; gap: 7px;">Security ${faceIdIcon()}</div>`,
