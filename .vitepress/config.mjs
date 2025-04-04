@@ -62,7 +62,7 @@ export default defineConfig({
   ],
   themeConfig: {
     editLink: {
-      pattern: "https://github.com/tuist/handbook/edit/main/:path",
+      pattern: "https://github.com/tuist/handbook/edit/main/handbook/:path",
     },
     logo: "/logo.png",
     search: {
