@@ -83,4 +83,4 @@ By maintaining clear boundaries of responsibility, we ensure the highest securit
 
 ---
 
-If you have questions about this model, please reach out to the security team at [security@tuist.dev](mailto:security@tuist.dev).
+If you have questions about this model, please reach out to the security team at [contact@tuist.dev](mailto:contact@tuist.dev).
