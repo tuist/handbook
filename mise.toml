@@ -1,0 +1,6 @@
+[tools]
+nodejs = "22.14.0"
+pnpm = "10.7.1"
+
+[hooks]
+postinstall = "pnpm install"

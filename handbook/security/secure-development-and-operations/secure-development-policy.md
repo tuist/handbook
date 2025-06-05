@@ -101,6 +101,8 @@ Testing of security functionality shall be performed at defined periods during t
 deployed to Tuist GmbH production systems without documented, successful test results and evidence of security
 remediation activities.
 
+Comprehensive penetration testing shall be performed at least annually on applications and cloud resources according to the requirements outlined in the [Penetration Testing Policy](../secure-development-and-operations/penetration-testing-policy.md). As per our [Shared Responsibility Model](/security/shared-responsibility-model), network infrastructure penetration testing is the responsibility of our cloud provider Fly.io.
+
 ## Application vulnerability management
 
 Application code should be scanned prior to deployment. Patches to address application vulnerabilities that materially

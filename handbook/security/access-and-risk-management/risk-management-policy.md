@@ -58,7 +58,7 @@ The format is based on the following NIST and ISO standards and frameworks:
 
 Risks are assessed and ranked according to their impact and their likelihood of occurrence. A formal Risk Assessment, and
 network penetration tests, will be performed at least annually and shall take into consideration the results of any technical
-vulnerability management activities performed in accordance with the *Operations Security Policy.*
+vulnerability management activities performed in accordance with the *Operations Security Policy* and the *Penetration Testing Policy*.
 
 ## Risk categories
 
@@ -94,10 +94,10 @@ The criteria for determining risk is the combined likelihood and impact of an ev
 availability, integrity, or privacy of organizational and customer information, personally identifiable information (PII), or
 business information systems.
 
-For all risk inputs such as risk assessments, vulnerability scans, penetration test, bug bounty programs, etc., Tuist GmbH
+For all risk inputs such as risk assessments, vulnerability scans, penetration tests, bug bounty programs, etc., Tuist GmbH
 management shall reserve the right to modify risk rankings based on its assessment of the nature and criticality of the
 system processing, as well as the nature, criticality and exploitability (or other relevant factors and considerations) of the
-identified vulnerability.
+identified vulnerability. All penetration testing activities shall follow the requirements outlined in the [Penetration Testing Policy](../secure-development-and-operations/penetration-testing-policy.md).
 
 ## Risk response, treatment, and tracking
 

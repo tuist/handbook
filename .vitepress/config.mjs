@@ -33,6 +33,7 @@ export default defineConfig({
 /security/human-resource-security-policy /security/human-and-incident-management/human-resource-security-policy 301
 /security/incident-response-management /security/human-and-incident-management/incident-response-management 301
 /security/secure-development-policy /security/secure-development-and-operations/secure-development-policy 301
+/security/penetration-testing-policy /security/secure-development-and-operations/penetration-testing-policy 301
 /pdfs/operations-security-policy-bsi.pdf /pdfs/security/secure-development-and-operations/operations-security-policy-bsi.pdf 301
 /security/physical-security-policy /security/physical-and-asset-security/physical-security-policy 301
 /security/asset-management-policy /security/physical-and-asset-security/asset-management-policy 301
@@ -159,7 +160,7 @@ export default defineConfig({
             link: "/security/shared-responsibility-model",
           },
           {
-            text: "Emplyee termination security policy",
+            text: "Employee termination security policy",
             link: "/security/employee-termination-security-policy",
           },
           {
@@ -215,6 +216,10 @@ export default defineConfig({
               {
                 text: "Secure development policy",
                 link: "/security/secure-development-and-operations/secure-development-policy",
+              },
+              {
+                text: "Penetration testing policy",
+                link: "/security/secure-development-and-operations/penetration-testing-policy",
               },
               {
                 text: "Operations security policy",
