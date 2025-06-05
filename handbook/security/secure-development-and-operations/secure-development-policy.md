@@ -107,8 +107,7 @@ Application-level network traffic shall be monitored, controlled, managed, and p
 
 ## Application vulnerability management
 
-Application code should be scanned prior to deployment. Patches to address application vulnerabilities that materially
-impact security should be deployed within 90 days of discovery.
+Application code and dependencies should be scanned continuously using GitHub Dependabot, Snyk, and Sobelow according to the requirements outlined in the [Vulnerability Scanning Policy](../secure-development-and-operations/vulnerability-scanning-policy.md). All Internet-exposed services and remote client applications shall undergo weekly vulnerability scanning. Sobelow shall be used for detecting vulnerabilities in Elixir application code with each commit, causing CI pipeline failures if security issues are detected. Patches to address application vulnerabilities shall be deployed according to the severity-based timelines defined in the Vulnerability Scanning Policy.
 
 ## System acceptance testing
 
