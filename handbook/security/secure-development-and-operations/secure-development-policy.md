@@ -103,6 +103,8 @@ remediation activities.
 
 Comprehensive penetration testing shall be performed at least annually on applications and cloud resources according to the requirements outlined in the [Penetration Testing Policy](../secure-development-and-operations/penetration-testing-policy.md). As per our [Shared Responsibility Model](/security/shared-responsibility-model), network infrastructure penetration testing is the responsibility of our cloud provider Fly.io.
 
+Application-level network traffic shall be monitored, controlled, managed, and periodically evaluated to identify vulnerabilities, anomalies, and capacity issues in accordance with the [Network Traffic Management Policy](/security/business-continuity-and-data-protection/network-traffic-management-policy).
+
 ## Application vulnerability management
 
 Application code should be scanned prior to deployment. Patches to address application vulnerabilities that materially
