@@ -4,7 +4,7 @@ titleTemplate: :title | Business continuity and data protection | Security | Tui
 description: "This policy establishes procedures for monitoring, controlling, managing, and evaluating network traffic to identify vulnerabilities, anomalies and capacity issues in Tuist GmbH's infrastructure."
 ---
 
-# Network Traffic Management Policy
+# Network traffic management policy
 
 - **Policy owner:** Pedro Piñera Buendía
 - **Policy owner:** Effective Date: December 12, 2024
